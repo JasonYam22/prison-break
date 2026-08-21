@@ -1,8 +1,198 @@
 {
-  "COLLECTION_NAME_HERE": [
+  "prisons": [
+    { "id": "1", "name": "Fox River State Penitentiary", "location": "Chicago, Illinois, USA", "seasonAppearance": "Season 1-2", "description": "A maximum security prison where Michael Scofield deliberately gets himself incarcerated to break out his brother Lincoln Burrows, who is on death row.", "type": "Maximum Security" },
+    { "id": "2", "name": "Sona Federal Penitentiary", "location": "Panama", "seasonAppearance": "Season 3", "description": "A lawless prison with no guards inside its walls, run by the inmates themselves. Michael is imprisoned here on a fabricated homicide charge.", "type": "Federal, Inmate-Governed" },
+    { "id": "3", "name": "Miami-Dade Metropolitan Correctional Center", "location": "Miami, Florida, USA", "seasonAppearance": "Season 3", "description": "A federal holding facility briefly used to detain James Whistler before his transfer to Sona.", "type": "Federal Holding Facility" },
+    { "id": "4", "name": "GATE Facility", "location": "Undisclosed, USA", "seasonAppearance": "Season 4", "description": "A secretive government detention site used by General Krantz and The Company to hold and interrogate operatives connected to Scylla.", "type": "Black Site" },
+    { "id": "5", "name": "Ogygia Prison", "location": "Sana'a, Yemen", "seasonAppearance": "Season 5", "description": "A prison in Yemen where Michael Scofield resurfaces years after being presumed dead, living under the alias Kaniel Outis.", "type": "Foreign Maximum Security" }
+  ],
+ "characters": [
     {
-      "id": "1234",
-      "KEY_HERE": "VALUE_HERE"
+      "id": "1",
+      "name": "Michael Scofield",
+      "age": 29,
+      "role": "Structural Engineer",
+      "description": "Mastermind behind the Fox River escape plan, tattooed with a coded blueprint of the prison to break out his brother Lincoln.",
+      "image": "https://images.fineartamerica.com/images/artworkimages/mediumlarge/3/michael-scofield-prison-break-viking-graphics.jpg",
+      "prisonId": "1"
+    },
+    {
+      "id": "2",
+      "name": "Lincoln Burrows",
+      "age": 32,
+      "role": "Death Row Inmate",
+      "description": "Michael's older brother, wrongly convicted of murdering the Vice President's brother and sentenced to death.",
+      "image": "https://static.wikia.nocookie.net/prisonbreak/images/c/c8/Dominic_Purcell_Lincoln.jpg",
+      "prisonId": "1"
+    },
+    {
+      "id": "3",
+      "name": "Fernando Sucre",
+      "age": 28,
+      "role": "Inmate / Michael's Cellmate",
+      "description": "Michael's loyal cellmate at Fox River, driven to escape so he can marry his girlfriend Maricruz.",
+      "image": "https://static.wikia.nocookie.net/prisonbreak/images/8/87/Amaury_Nolasco_Sucre.jpg",
+      "prisonId": "1"
+    },
+    {
+      "id": "4",
+      "name": "Theodore 'T-Bag' Bagwell",
+      "age": 38,
+      "role": "Inmate / Convicted Rapist",
+      "description": "A manipulative and dangerous sociopath who forces his way into the escape plan and becomes a recurring antagonist.",
+      "image": "https://static.wikia.nocookie.net/prisonbreak/images/1/18/Robert_Knepper_T-Bag.jpg",
+      "prisonId": "1"
+    },
+    {
+      "id": "5",
+      "name": "Brad Bellick",
+      "age": 40,
+      "role": "Correctional Officer / Captain of the Guards",
+      "description": "Corrupt head guard at Fox River whose fortunes rise and fall dramatically throughout the series.",
+      "image": "https://static.wikia.nocookie.net/prisonbreak/images/2/22/Wade_Williams_Bellick.jpg",
+      "prisonId": "1"
+    },
+    {
+      "id": "6",
+      "name": "Alexander Mahone",
+      "age": 42,
+      "role": "FBI Special Agent",
+      "description": "A skilled but morally compromised federal agent assigned to hunt down the Fox River escapees.",
+      "image": "https://static.wikia.nocookie.net/prisonbreak/images/b/b3/William_Fichtner_Mahone.jpg",
+      "prisonId": "2"
+    },
+    {
+      "id": "7",
+      "name": "Sara Tancredi",
+      "age": 27,
+      "role": "Prison Physician",
+      "description": "Fox River's doctor who falls for Michael and becomes deeply entangled in the brothers' fight for freedom.",
+      "image": "https://static.wikia.nocookie.net/prisonbreak/images/f/f6/Sarah_Wayne_Callies_Sara.jpg",
+      "prisonId": "1"
+    },
+    {
+      "id": "8",
+      "name": "Paul Kellerman",
+      "age": 35,
+      "role": "Secret Service Agent",
+      "description": "A ruthless operative for The Company turned reluctant ally after uncovering the conspiracy against the Burrows brothers.",
+      "image": "https://static.wikia.nocookie.net/prisonbreak/images/4/4c/Paul_Adelstein_Kellerman.jpg",
+      "prisonId": "1"
+    },
+    {
+      "id": "9",
+      "name": "Charles 'C-Note' Patoshik",
+      "age": 30,
+      "role": "Inmate / Former Army Soldier",
+      "description": "A Fox River inmate who joins the escape and later becomes a key ally to Michael on the outside.",
+      "image": "https://static.wikia.nocookie.net/prisonbreak/images/c/c5/Rockmond_Dunbar_C-Note.jpg",
+      "prisonId": "1"
+    },
+    {
+      "id": "10",
+      "name": "John Abruzzi",
+      "age": 44,
+      "role": "Inmate / Mob Boss",
+      "description": "Head of the Chicago mob, imprisoned at Fox River, who provides crucial resources for the escape.",
+      "image": "https://static.wikia.nocookie.net/prisonbreak/images/9/9f/Peter_Stormare_Abruzzi.jpg",
+      "prisonId": "1"
+    },
+    {
+      "id": "11",
+      "name": "David 'Tweener' Apolskis",
+      "age": 24,
+      "role": "Inmate / Car Thief",
+      "description": "A young, erratic Fox River inmate who joins the escape plan but struggles to find his footing on the outside.",
+      "image": "https://static.wikia.nocookie.net/prisonbreak/images/7/77/Lane_Garrison_Tweener.jpg",
+      "prisonId": "1"
+    },
+    {
+      "id": "12",
+      "name": "Veronica Donovan",
+      "age": 30,
+      "role": "Defense Attorney",
+      "description": "The Burrows brothers' childhood friend and lawyer who fights to prove Lincoln's innocence.",
+      "image": "https://static.wikia.nocookie.net/prisonbreak/images/d/da/Robin_Tunney_Veronica.jpg",
+      "prisonId": "1"
+    },
+    {
+      "id": "13",
+      "name": "LJ Burrows",
+      "age": 18,
+      "role": "Lincoln's Son",
+      "description": "Lincoln's son, targeted by The Company and forced into hiding and eventually incarceration to pressure his father.",
+      "image": "https://static.wikia.nocookie.net/prisonbreak/images/8/86/Marshall_Allman_LJ.jpg",
+      "prisonId": "3"
+    },
+    {
+      "id": "14",
+      "name": "Nick Savrinn",
+      "age": 32,
+      "role": "Attorney / Project Justice",
+      "description": "A civil rights lawyer working alongside Veronica Donovan to expose the conspiracy against Lincoln.",
+      "image": "https://static.wikia.nocookie.net/prisonbreak/images/6/69/Frank_Grillo_Nick.jpg",
+      "prisonId": "1"
+    },
+    {
+      "id": "15",
+      "name": "James Whistler",
+      "age": 34,
+      "role": "Inmate / The Company's Target",
+      "description": "A mysterious prisoner at Sona whom Michael is coerced into breaking out in exchange for Sara's freedom.",
+      "image": "https://static.wikia.nocookie.net/prisonbreak/images/1/15/Chris_Vance_Whistler.jpg",
+      "prisonId": "2"
+    },
+    {
+      "id": "16",
+      "name": "Gretchen Morgan",
+      "age": 33,
+      "role": "Company Operative",
+      "description": "A cold and calculating operative for The Company who becomes both an enemy and uneasy ally to Michael's crew.",
+      "image": "https://static.wikia.nocookie.net/prisonbreak/images/9/91/Jodi_Lyn_O%27Keefe_Gretchen.jpg",
+      "prisonId": "2"
+    },
+    {
+      "id": "17",
+      "name": "Norman 'Lechero' St. John",
+      "age": 45,
+      "role": "Inmate / Ruler of Sona",
+      "description": "The de facto leader of Sona prison, controlling the inmates in the absence of any guards inside the walls.",
+      "image": "https://static.wikia.nocookie.net/prisonbreak/images/3/30/Robert_Wisdom_Lechero.jpg",
+      "prisonId": "2"
+    },
+    {
+      "id": "18",
+      "name": "Donald Self",
+      "age": 41,
+      "role": "Homeland Security Agent",
+      "description": "A ruthless government handler who blackmails Michael's team into retrieving the Scylla card for him.",
+      "image": "https://static.wikia.nocookie.net/prisonbreak/images/1/1a/Michael_Rapaport_Self.jpg",
+      "prisonId": "4"
+    },
+    {
+      "id": "19",
+      "name": "David 'Whip' Martin",
+      "age": 33,
+      "role": "Inmate / Ogygia Prisoner",
+      "description": "A fellow inmate at Ogygia who partners with 'Kaniel Outis' (Michael) to survive and eventually escape the prison.",
+      "image": "https://static.wikia.nocookie.net/prisonbreak/images/5/52/Augustus_Prew_Whip.jpg",
+      "prisonId": "5"
+    },
+    {
+      "id": "20",
+      "name": "Sheba",
+      "age": 29,
+      "role": "Resistance Leader",
+      "description": "A resourceful resistance fighter in Yemen who becomes entangled with Michael during his time at Ogygia.",
+      "image": "https://static.wikia.nocookie.net/prisonbreak/images/7/7b/Inbar_Lavi_Sheba.jpg",
+      "prisonId": "5"
     }
+  ],
+  "seasons": [
+    { "id": "1", "title": "Season 1", "year": 2005, "episodeCount": 22, "description": "Michael Scofield gets himself imprisoned at Fox River State Penitentiary to save his brother Lincoln from death row, hatching an elaborate escape plan.", "characterIds": ["1","2","3","4","5","7","8","9","10","11","12","14"] },
+    { "id": "2", "title": "Season 2", "year": 2006, "episodeCount": 22, "description": "The 'Fox River Eight' scatter across the country as fugitives, pursued by Agent Mahone while trying to evade capture and clear Lincoln's name.", "characterIds": ["1","2","3","4","5","6","7","8","9","10","11"] },
+    { "id": "3", "title": "Season 3", "year": 2007, "episodeCount": 13, "description": "Michael is imprisoned in the lawless Sona Federal Penitentiary in Panama and is forced to break out fellow inmate James Whistler for The Company.", "characterIds": ["1","2","6","7","13","15","16","17"] },
+    { "id": "4", "title": "Season 4", "year": 2008, "episodeCount": 24, "description": "The team is recruited by Homeland Security to retrieve a mysterious data card called Scylla from The Company, uncovering deeper conspiracies.", "characterIds": ["1","2","3","4","6","7","9","16","18"] },
+    { "id": "5", "title": "Season 5", "year": 2017, "episodeCount": 9, "description": "Presumed dead for years, Michael resurfaces alive in Yemen's Ogygia Prison under the alias Kaniel Outis, forcing Lincoln and Sara to mount another rescue.", "characterIds": ["1","2","3","4","7","19","20"] }
   ]
 }
