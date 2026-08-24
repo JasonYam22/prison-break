@@ -43,11 +43,48 @@
   ],
   "characters": [
     {
+      "id": "1",
+      "name": "Michael Scofield",
+      "age": "35",
+      "role": "Structural Engineer / Inmate",
+      "description": "Michael Scofield is a brilliant structural engineer who deliberately robs a bank to get sent to Fox River State Penitentiary, the same prison holding his brother Lincoln on death row. Having memorized the prison's blueprints and tattooed the entire escape plan across his body in an elaborate coded design, Michael orchestrates one of the most meticulous prison breaks ever attempted. His calm, calculating intelligence lets him stay several steps ahead of guards, wardens, and federal agents alike, though his rigid need for control is constantly tested by the unpredictable inmates he's forced to rely on. Driven purely by loyalty to Lincoln, Michael repeatedly sacrifices his own freedom and safety to protect the people he loves. His journey carries him from Fox River to Panama, into the heart of a global conspiracy, and eventually to a Yemeni prison years later, cementing him as the show's central mastermind.",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6C40o1q78sOHJPyPRFrVWwlFzUcybZJOddVfSETp-Aw&s=10"
+    },
+    {
+      "id": "2",
+      "name": "Lincoln Burrows",
+      "age": 34,
+      "role": "Death Row Inmate / Michael's Brother",
+      "description": "Lincoln Burrows is Michael's older brother, wrongfully convicted and sentenced to death for the murder of the Vice President's brother, a crime he did not commit. Hardened by a rough upbringing in and out of juvenile facilities, Lincoln is fiercely protective, quick-tempered, and initially skeptical that Michael's escape plan could possibly work. As the reason for the entire breakout, Lincoln carries an enormous weight of guilt over dragging his brother, and everyone around them, into mortal danger. Once free, his relentless drive to clear his name and protect his son LJ pushes him into direct conflict with the shadowy conspiracy that framed him. Over the course of the series, Lincoln evolves from a desperate, angry man on death row into a capable and determined fighter willing to do whatever it takes to keep his family together.",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQn381hpqj-5lKFN8UWB3utwyBe9ebpIuEQDG09cAJgZA&s=10",
+      "prisonId": "1"
+    },
+    {
+      "id": "3",
+      "name": "Fernando Sucre",
+      "age": 29,
+      "role": "Inmate / Michael's Cellmate",
+      "description": "Fernando Sucre is Michael's cellmate at Fox River and quickly becomes one of his most loyal allies once he's brought in on the escape plan. Sucre is serving time for a botched jewelry heist and is desperate to get out in time to marry his girlfriend Maricruz before she moves on with someone else. Warm, talkative, and fiercely loyal despite his rough exterior, Sucre provides much of the show's emotional heart and comic relief amid the tension of the escape. His devotion to family and friendship repeatedly pulls him back into danger long after he could have simply disappeared and started a new life. Sucre's arc, from a heartbroken inmate to a devoted husband and father, threads through nearly every season as he keeps circling back to help Michael and Lincoln.",
+      "image": "https://i.pinimg.com/474x/5c/b8/4c/5cb84cfb1cf9a28d0e51e1682d74d8fb.jpg",
+      "prisonId": "1"
+    },
+    {
       "name": "Theodore 'T-Bag' Bagwell",
-      "age": "50000505",
+      "age": 50,
       "role": "Inmate / Convicted Rapist",
       "description": "Theodore 'T-Bag' Bagwell is a predatory, highly manipulative sociopath serving a life sentence at Fox River for horrific crimes. After accidentally uncovering Michael's escape route inside the cell walls, he ruthlessly blackmails his way into the escape crew. Despite his ruthless nature and dark past, T-Bag possesses a charismatic, eloquent speaking style and an extraordinary knack for self-preservation. Time and again, he proves virtually impossible to eliminate, surviving horrific physical injuries, desertion, and foreign prisons. His chaotic presence constantly threatens to tear Michael's carefully structured plans apart from the inside. While undeniably villainous, his tragic childhood history and desperate need for belonging occasionally reveal a deeply damaged human soul.",
-      "id": "4"
+      "id": "4",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTM4MDE0Njg5OV5BMl5BanBnXkFtZTcwMzUzNTg3NA@@._V1_.jpg",
+      "prisonId": "1"
+    },
+    {
+      "id": "5",
+      "name": "Brad Bellick",
+      "age": 40,
+      "role": "Former Correctional Officer / Inmate",
+      "description": "Brad Bellick starts out as the domineering, corrupt Correctional Officer at Fox River, running the prison yard through intimidation and petty cruelty. After being implicated in the escape and losing his job in disgrace, he becomes obsessed with recapturing the Fox River Eight to salvage his reputation and collect the bounty on their heads. Stripped of his authority and forced onto the wrong side of the law, Bellick's descent from prison guard to desperate fugitive and eventually inmate himself is one of the show's more surprising redemption arcs. His street-smart resourcefulness and surprising resilience let him survive situations that should have finished him off entirely. Beneath the bluster, Bellick's later loyalty to the very men he once tormented reveals a rough sense of honor buried under years of bitterness.",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQinC-tkmmKa0IOp4Ey84x8KdM6ojy8OTSWq3pr7BDuLBI3Fk-aFBEB6OUG&s=10",
+      "prisonId": "1"
     },
     {
       "id": "6",
@@ -55,7 +92,7 @@
       "age": 42,
       "role": "FBI Special Agent",
       "description": "Alexander Mahone is an extraordinarily sharp FBI Special Agent assigned to lead the nationwide manhunt for the 'Fox River Eight'. Matching Michael Scofield in raw intellect and deductive power, Mahone quickly decodes the complex mathematical secrets hidden inside Michael's tattoos. However, Mahone is secretly tormented by dark personal trauma and an addiction to prescription drugs, forced into executing fugitives by The Company. His cat-and-mouse game with Michael forms the intense psychological backbone of the show's second season. Eventually framed and sent to Panama's Sona prison alongside Scofield, Mahone is forced to forge an uneasy alliance with his former targets. Over time, he becomes one of Michael's most reliable allies in taking down the government conspiracy.",
-      "image": "https://image.tmdb.org/t/p/w500/A1g5y8L2m3O9S4N0P5Q1R2S3T4U.jpg",
+      "image": "https://preview.redd.it/and-what-if-i-said-my-favorite-character-is-alex-v0-kbxzsenlique1.jpeg?auto=webp&s=3957429992caa0e90544cb2c344aa84a9275a78e",
       "prisonId": "2"
     },
     {
@@ -64,7 +101,7 @@
       "age": 27,
       "role": "Prison Physician",
       "description": "Dr. Sara Tancredi is the compassionate prison doctor at Fox River and the daughter of the Governor of Illinois. Driven by a desire to help underprivileged people following her own recovery from addiction, she takes a genuine interest in Michael Scofield. As their romantic connection deepens, she inadvertently becomes an indispensable pawn in Michael's escape plan, ultimately leaving an infirmary door unlocked for him. This choice destroys her quiet life, entangling her in the deadly political conspiracy targeting Lincoln Burrows. Throughout extreme hardship, torture, and separation, Sara remains Michael's primary emotional anchor and moral compass. Her bravery and resilience make her a central hero across every chapter of the series.",
-      "image": "https://image.tmdb.org/t/p/w500/6U2a1m8S8a0K3N2P5Q1R2S3T4U5.jpg",
+      "image": "https://res.cloudinary.com/jerrick/image/upload/d_642250b563292b35f27461a7.png,f_jpg,fl_progressive,q_auto,w_1024/6180c092e0e598001e2d88bb.jpg",
       "prisonId": "1"
     },
     {
@@ -73,7 +110,7 @@
       "age": 35,
       "role": "Secret Service Agent",
       "description": "Paul Kellerman is a ruthless Secret Service operative assigned to protect the conspiracy behind Lincoln Burrows' framed execution. Operating under the direct orders of Vice President Caroline Reynolds, Kellerman cold-bloodedly assassinates anyone who threatens to expose the truth. His cold efficiency and complete lack of remorse make him one of the scariest early antagonists targeting Michael and Sara. However, when his political superiors abruptly betray his years of absolute loyalty, Kellerman reaches a dramatic psychological breaking point. In a shocking turn of events, he provides critical court testimony that instantly exonerates Lincoln Burrows. His unpredictable moral evolution shows the complex gray areas defining the show's major political figures.",
-      "image": "https://image.tmdb.org/t/p/w500/a3K5L7X9M1N2O3P4Q5R6S7T8U9V.jpg",
+      "image": "https://www.tvline.com/tvline/casting-news/prison-break-paul-adelstein-cast-revival-paul-kellerman-695969/prisonbreak_returns_kellerman.jpg",
       "prisonId": "1"
     },
     {
@@ -82,7 +119,7 @@
       "age": 30,
       "role": "Inmate / Former Army Soldier",
       "description": "Benjamin Miles 'C-Note' Franklin is a former US Army veteran who was dishonorably discharged after attempting to expose military corruption. Imprisoned at Fox River on drug smuggling charges, he lies to his family, pretending he is still serving overseas to protect them from shame. C-Note uses his military logistics expertise inside the prison to control black-market kitchen supplies, eventually discovering Michael's escape preparations. He forces his way onto the breakout team solely out of a desperate desire to reunite with his wife and young daughter. On the run, C-Note's intense devotion to his family constantly clashes with the harsh realities of being a hunted fugitive. His tactical military background later proves essential during operations in the Middle East in Season 5.",
-      "image": "https://image.tmdb.org/t/p/w500/u3N2O1P4Q5R6S7T8U9V0W1X2Y3Z.jpg",
+      "image": "https://upload.wikimedia.org/wikipedia/ro/b/bd/Pb_franklin.png?utm_source=ro.wikipedia.org&utm_campaign=index&utm_content=original",
       "prisonId": "1"
     },
     {
@@ -91,7 +128,7 @@
       "age": 44,
       "role": "Inmate / Mob Boss",
       "description": "John Abruzzi is a notorious Chicago mob boss serving a 120-year sentence at Fox River State Penitentiary. Controlling the Prison Industry work crew inside the facility, Abruzzi provides the crucial labor access Michael needs to dig through the infirmary floor. In exchange, Abruzzi demands the location of Otto Fibonacci, the key state witness who put him behind bars. His volatile temper and ruthless mafia instincts make him a constant threat to anyone inside the escape crew. Following a near-fatal neck injury inflicted by T-Bag, Abruzzi undergoes a brief religious awakening that temporarily calms his violent nature. However, his obsession with vengeful mob retribution ultimately dictates his tragic fate once outside the prison walls.",
-      "image": "https://image.tmdb.org/t/p/w500/y1P2O3Q4R5S6T7U8V9W0X1Y2Z3A.jpg",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQpUlDnsf4crS4o40zLUPOdllnQGcRJthHpQByxIzA92rsf2cT-vyDcIIL&s=10",
       "prisonId": "1"
     },
     {
@@ -100,8 +137,50 @@
       "age": 33,
       "role": "Company Operative",
       "description": "Gretchen Morgan is a cold, highly lethal operative for The Company who serves as the primary antagonist during the Panama crisis. Highly trained in psychological warfare, combat, and interrogation, she holds Sara Tancredi and LJ Burrows hostage to force Michael into breaking out James Whistler from Sona. Her total ruthlessness and willingness to execute hostages make her one of the most formidable threats Michael ever faces. Despite her ice-cold exterior, Gretchen is a survivor driven by complex personal motives, including protecting her secret daughter. As political alliances shift, she is forced into a tense, volatile partnership with Scofield's team to bring down General Krantz. Her sharp tactical mind and combat abilities make her an irreplaceable asset during high-risk operations.",
-      "image": "https://image.tmdb.org/t/p/w500/b7T8U9V0W1X2Y3Z4A5B6C7D8E9F.jpg",
+      "image": "https://i.ytimg.com/vi/1ptBIxG4jHk/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLAxYpsWnZAr5J8hVtwIpJN3sO26mQ",
       "prisonId": "2"
+    },
+    {
+      "id": "12",
+      "name": "Veronica Donovan",
+      "age": 32,
+      "role": "Defense Attorney",
+      "description": "Veronica Donovan is a sharp civil rights attorney and the childhood friend of both Michael and Lincoln, having grown up alongside them in foster care. Convinced of Lincoln's innocence, she works tirelessly outside the prison walls to uncover the real conspiracy behind his death sentence, digging into buried evidence and dangerous political connections. Her investigation puts her directly in the crosshairs of the same forces controlling Kellerman, turning her from a determined lawyer into a hunted target herself. Veronica's unwavering belief in the justice system, even as it fails the people she loves, drives her to take increasingly personal risks. Her tireless legal work in the show's early chapters lays much of the groundwork that eventually helps clear Lincoln's name.",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTryHUCjcExci1gdPOSXJUsOQ4aoEr2kD0kFHLpk7fwuw&s=10"
+    },
+    {
+      "id": "13",
+      "name": "LJ Burrows",
+      "age": 18,
+      "role": "Lincoln's Son / Fugitive",
+      "description": "LJ Burrows is Lincoln's teenage son, thrust into the middle of a deadly conspiracy simply because of who his father is. Framed for a murder he didn't commit as a way of pressuring Lincoln and Michael, LJ is forced to go on the run alongside Sara, eventually being captured and used as leverage by The Company in Panama. Despite his youth, LJ shows remarkable composure and resourcefulness under extreme pressure, holding his own during interrogations and hostage situations that would break most adults. His relationship with Lincoln, strained by years of his father's absence and instability, slowly rebuilds as the two are forced to rely on each other to survive. LJ's ordeal underscores just how far the conspiracy against the Burrows family is willing to reach.",
+      "image": "https://static.wikia.nocookie.net/prisonbreak/images/5/54/Pb_LJ_Burrows.jpg/revision/latest?cb=20070107221519"
+    },
+    {
+      "id": "14",
+      "name": "Charles 'Haywire' Patoshik",
+      "age": 38,
+      "role": "Inmate / Escaped Convict",
+      "description": "Charles 'Haywire' Patoshik is an unpredictable Fox River inmate and skilled artist whose fragile grip on reality makes him both a valuable asset and a serious liability during the escape. Recruited for his talent at forging documents and his knowledge of the prison's layout, Haywire's erratic, paranoid behavior repeatedly threatens to expose the entire operation. Once outside, his disconnect from reality leads him down his own chaotic path, separate from the rest of the group, culminating in a bizarre and tragic detour at sea. Despite his instability, Haywire's brief presence highlights the desperate, damaged range of men Michael is forced to depend on to pull off the breakout. His unpredictable nature stands as one of the earliest cracks in Michael's tightly controlled plan.",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQaXNpgJVxMljkXb8c0JDlrUltLfuqOVjxQSHghQ4J4B6DZvq1FGzH9V1M&s=10",
+      "prisonId": "1"
+    },
+    {
+      "id": "15",
+      "name": "James Whistler",
+      "age": 36,
+      "role": "Inmate / British Fugitive",
+      "description": "James Whistler is a mysterious British inmate held at Sona whose true identity and past are deliberately obscured for much of Season 3. The Company forces Michael into Sona specifically to break Whistler out, using Sara and LJ as hostages to guarantee his cooperation. Charming but guarded, Whistler holds secrets about his real name and his connection to a woman named Gina that complicate Michael's already dangerous mission. His shifting loyalties and hidden agenda keep both Michael and the audience uncertain whether he can be trusted. Whistler's arc drives the entire Panama storyline, tying together Sona's brutal politics with the wider Company conspiracy.",
+      "image": "https://static.wikia.nocookie.net/prisonbreak/images/2/21/James_Whistler_Season_4.JPG/revision/latest?cb=20080907021407",
+      "prisonId": "2"
+    },
+    {
+      "id": "16",
+      "name": "General Jonathan Krantz",
+      "age": 60,
+      "role": "The Company Director",
+      "description": "General Jonathan Krantz is the ruthless, calculating director of The Company and one of the series' most dangerous antagonists, secretly revealed to be Michael and Lincoln's biological father. Operating from deep within the government, Krantz orchestrates the Scylla conspiracy and treats even his own children as expendable pieces in his larger political game. His icy detachment and willingness to sacrifice family for power make him a chilling final obstacle for the brothers to overcome. Krantz's manipulation extends across agencies and continents, showing just how deeply The Company's corruption reaches into legitimate institutions. His confrontation with Michael and Lincoln in Season 4 forces both brothers to reckon with the truth about their origins.",
+      "image": "https://d2thvodm3xyo6j.cloudfront.net/media/2017/04/ca67dcc6dedd7eaf-600x338.jpg"
     }
   ],
   "seasons": [
@@ -120,7 +199,10 @@
         "7",
         "8",
         "9",
-        "10"
+        "10",
+        "12",
+        "13",
+        "14"
       ]
     },
     {
@@ -139,7 +221,8 @@
         "7",
         "8",
         "9",
-        "10"
+        "10",
+        "13"
       ]
     },
     {
@@ -153,7 +236,9 @@
         "2",
         "6",
         "7",
-        "11"
+        "11",
+        "15",
+        "18"
       ]
     },
     {
@@ -171,7 +256,11 @@
         "6",
         "7",
         "9",
-        "11"
+        "11",
+        "13",
+        "16",
+        "17",
+        "18"
       ]
     },
     {
