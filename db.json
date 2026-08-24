@@ -175,12 +175,12 @@
       "prisonId": "2"
     },
     {
-      "id": "16",
       "name": "General Jonathan Krantz",
-      "age": 60,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwOWEbWlF070E-saGaaOxfpJ7Ijqa_TS5RZYBPxK6F-A&s=10",
+      "age": "61",
       "role": "The Company Director",
       "description": "General Jonathan Krantz is the ruthless, calculating director of The Company and one of the series' most dangerous antagonists, secretly revealed to be Michael and Lincoln's biological father. Operating from deep within the government, Krantz orchestrates the Scylla conspiracy and treats even his own children as expendable pieces in his larger political game. His icy detachment and willingness to sacrifice family for power make him a chilling final obstacle for the brothers to overcome. Krantz's manipulation extends across agencies and continents, showing just how deeply The Company's corruption reaches into legitimate institutions. His confrontation with Michael and Lincoln in Season 4 forces both brothers to reckon with the truth about their origins.",
-      "image": "https://d2thvodm3xyo6j.cloudfront.net/media/2017/04/ca67dcc6dedd7eaf-600x338.jpg"
+      "id": "16"
     }
   ],
   "seasons": [
