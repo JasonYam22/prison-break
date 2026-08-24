@@ -43,40 +43,11 @@
   ],
   "characters": [
     {
-      "id": "1",
-      "name": "Michael Scofield",
-      "age": 29,
-      "role": "Structural Engineer",
-      "description": "Michael Scofield is a brilliant structural engineer who orchestrates the entire narrative by designing a genius escape plan for his wrongfully convicted brother, Lincoln Burrows. Driven by unwavering family loyalty, he deliberately commits an armed robbery to get incarcerated inside Fox River State Penitentiary. To keep every detail secure, he hides the prison's blueprints directly on his body within a massive, complex full-torso tattoo. His rare psychological condition, low latent inhibition, allows him to notice microscopic environmental details that others miss, making him an exceptionally dangerous strategist. Throughout the series, Michael consistently struggles with the heavy moral burden of his actions as innocent people get swept up in his wake. Despite facing ruthless shadow organizations, betrayal, and corrupt federal agents, his sharp intelligence remains the primary driving force behind his survival.",
-      "image": "https://image.tmdb.org/t/p/w500/v94PjQ6XU8lR17Ccl64Xk0sU1Kk.jpg",
-      "prisonId": "1"
-    },
-    {
-      "id": "2",
-      "name": "Lincoln Burrows",
-      "age": 32,
-      "role": "Death Row Inmate",
-      "description": "Lincoln 'Linc' Burrows is Michael's hot-tempered older brother, who is framed for the high-profile assassination of the Vice President's brother. Sentenced to die in the electric chair at Fox River, Lincoln becomes the central reason for the entire prison breakout plot. Unlike his intellectual brother, Lincoln relies heavily on raw physical strength, instinct, and a protective street-smart mentality. Before his arrest, he made sacrifices to pay for Michael's university education, creating a deep bond of mutual debt and affection between them. Once outside the prison walls, Lincoln takes a lead role in protecting his family from the shadow organization known as The Company. His journey shifts from a helpless victim of a high-level political conspiracy to an aggressive active operative fighting directly for his freedom.",
-      "image": "https://image.tmdb.org/t/p/w500/9I3G19JpXh0UaP9S2gS3y3cE6x8.jpg",
-      "prisonId": "1"
-    },
-    {
-      "id": "3",
-      "name": "Fernando Sucre",
-      "age": 28,
-      "role": "Inmate / Michael's Cellmate",
-      "description": "Fernando Sucre is Michael's deeply loyal cellmate at Fox River State Penitentiary and one of his most trusted confidants. Initially hesitant to join any escape plot, Sucre changes his mind when he discovers his pregnant girlfriend Maricruz is being pushed to marry his cousin. His warmth, emotional sincerity, and cheerful demeanor contrast sharply with the cold, dangerous criminal environment around them. Throughout their flight from the law, Sucre repeatedly places his own freedom and safety on the line to assist Michael and Lincoln. His skill behind the wheel of various getaway vehicles makes him an essential muscle component during high-stakes escapes. Ultimately, Sucre proves to be the ultimate companion, standing firmly by Michael's side across multiple countries and prisons.",
-      "image": "https://image.tmdb.org/t/p/w500/A31I1Oa4fLp801uP9E00K0jW1sC.jpg",
-      "prisonId": "1"
-    },
-    {
-      "id": "4",
       "name": "Theodore 'T-Bag' Bagwell",
-      "age": 38,
+      "age": "50000505",
       "role": "Inmate / Convicted Rapist",
       "description": "Theodore 'T-Bag' Bagwell is a predatory, highly manipulative sociopath serving a life sentence at Fox River for horrific crimes. After accidentally uncovering Michael's escape route inside the cell walls, he ruthlessly blackmails his way into the escape crew. Despite his ruthless nature and dark past, T-Bag possesses a charismatic, eloquent speaking style and an extraordinary knack for self-preservation. Time and again, he proves virtually impossible to eliminate, surviving horrific physical injuries, desertion, and foreign prisons. His chaotic presence constantly threatens to tear Michael's carefully structured plans apart from the inside. While undeniably villainous, his tragic childhood history and desperate need for belonging occasionally reveal a deeply damaged human soul.",
-      "image": "https://image.tmdb.org/t/p/w500/6y5fS1B1e0e84N0X2G6sN1pT2kQ.jpg",
-      "prisonId": "1"
+      "id": "4"
     },
     {
       "id": "6",
