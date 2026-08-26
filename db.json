@@ -161,7 +161,7 @@
       "role": "Lincoln's Son / Fugitive",
       "description": "LJ Burrows is Lincoln's teenage son, thrust into the middle of a deadly conspiracy simply because of who his father is. Framed for a murder he didn't commit as a way of pressuring Lincoln and Michael, LJ is forced to go on the run alongside Sara, eventually being captured and used as leverage by The Company in Panama. Despite his youth, LJ shows remarkable composure and resourcefulness under extreme pressure, holding his own during interrogations and hostage situations that would break most adults. His relationship with Lincoln, strained by years of his father's absence and instability, slowly rebuilds as the two are forced to rely on each other to survive. LJ's ordeal underscores just how far the conspiracy against the Burrows family is willing to reach.",
       "image": "https://static.wikia.nocookie.net/prisonbreak/images/5/54/Pb_LJ_Burrows.jpg/revision/latest?cb=20070107221519",
-      "imagePosition": "top"
+      "imagePosition": "30% 50%"
     },
     {
       "id": "14",
@@ -171,7 +171,7 @@
       "description": "Charles 'Haywire' Patoshik is an unpredictable Fox River inmate and skilled artist whose fragile grip on reality makes him both a valuable asset and a serious liability during the escape. Recruited for his talent at forging documents and his knowledge of the prison's layout, Haywire's erratic, paranoid behavior repeatedly threatens to expose the entire operation. Once outside, his disconnect from reality leads him down his own chaotic path, separate from the rest of the group, culminating in a bizarre and tragic detour at sea. Despite his instability, Haywire's brief presence highlights the desperate, damaged range of men Michael is forced to depend on to pull off the breakout. His unpredictable nature stands as one of the earliest cracks in Michael's tightly controlled plan.",
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQaXNpgJVxMljkXb8c0JDlrUltLfuqOVjxQSHghQ4J4B6DZvq1FGzH9V1M&s=10",
       "prisonId": "1",
-      "imagePosition": "50 20%"
+      "imagePosition": "top"
     },
     {
       "id": "15",
