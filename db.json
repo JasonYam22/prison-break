@@ -55,18 +55,17 @@
       "description": "Lincoln Burrows is Michael's older brother, wrongfully convicted and sentenced to death for the murder of the Vice President's brother, a crime he did not commit. Hardened by a rough upbringing in and out of juvenile facilities, Lincoln is fiercely protective, quick-tempered, and initially skeptical that Michael's escape plan could possibly work. As the reason for the entire breakout, Lincoln carries an enormous weight of guilt over dragging his brother, and everyone around them, into mortal danger. Once free, his relentless drive to clear his name and protect his son LJ pushes him into direct conflict with the shadowy conspiracy that framed him. Over the course of the series, Lincoln evolves from a desperate, angry man on death row into a capable and determined fighter willing to do whatever it takes to keep his family together.",
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQn381hpqj-5lKFN8UWB3utwyBe9ebpIuEQDG09cAJgZA&s=10",
       "prisonId": "1",
-      "imagePosition": "30% top"
+      "imagePosition": "45% 0%"
     },
     {
-  "id": "3",
-  "name": "Fernando Sucre",
-  "age": 31,
-  "role": "Inmate / Michael's Cellmate",
-  "description": "Fernando Sucre is Michael Scofield's loyal cellmate at Fox River State Penitentiary and one of his closest allies throughout the entire escape. Convicted of aggravated robbery after attempting to get money for his pregnant girlfriend Maricruz, Sucre is driven almost entirely by his deep love for her and his desperate desire to be a father. Though initially hesitant to join the risky breakout scheme, the threat of losing Maricruz to his rival cousin Hector pushes him to commit fully to the plan. Soft-hearted, fiercely loyal, and reliable under extreme pressure, Sucre becomes an indispensable member of the Fox River Eight, repeatedly risking his own freedom and life to protect his friends and reunite with his family.",
-  "image": "https://i.pinimg.com/474x/5c/b8/4c/5cb84cfb1cf9a28d0e51e1682d74d8fb.jpg",
-  "prisonId": "1",
-  "imagePosition": "top"
-},
+      "name": "Fernando Sucre",
+      "image": "https://i.pinimg.com/474x/5c/b8/4c/5cb84cfb1cf9a28d0e51e1682d74d8fb.jpg",
+      "age": "31",
+      "role": "Inmate / Michael's Cellmate",
+      "description": "Fernando Sucre is Michael Scofield's loyal cellmate at Fox River State Penitentiary and one of his closest allies throughout the entire escape. Convicted of aggravated robbery after attempting to get money for his pregnant girlfriend Maricruz, Sucre is driven almost entirely by his deep love for her and his desperate desire to be a father. Though initially hesitant to join the risky breakout scheme, the threat of losing Maricruz to his rival cousin Hector pushes him to commit fully to the plan. Soft-hearted, fiercely loyal, and reliable under extreme pressure, Sucre becomes an indispensable member of the Fox River Eight, repeatedly risking his own freedom and life to protect his friends and reunite with his family.",
+      "id": "3",
+      "imagePosition": "15% 0%"
+    },
     {
       "name": "Theodore 'T-Bag' Bagwell",
       "age": 50,
@@ -115,7 +114,7 @@
       "description": "Paul Kellerman is a highly trained U.S. Secret Service agent assigned to the protective detail of Vice President Caroline Reynolds, and secretly one of The Company's most ruthless operatives. Cold, methodical, and fiercely loyal to Reynolds, he is sent to silence anyone connected to the conspiracy behind Terrence Steadman's supposed murder, including Lincoln Burrows, eliminating witnesses and manipulating suspects without hesitation. As Reynolds and The Company begin treating him as an expendable loose end rather than a trusted agent, Kellerman's unwavering loyalty finally cracks. In a desperate act of self-preservation, he turns on his own handlers and becomes an uneasy ally to Michael and Lincoln, working alongside the very brothers he was once sent to destroy in an effort to expose the conspiracy and clear Lincoln's name.",
       "image": "https://i.redd.it/ba9ktbsdi53f1.jpeg",
       "prisonId": "1",
-      "imagePosition": "30% top"
+      "imagePosition": "60% 0%"
     },
     {
       "id": "9",
