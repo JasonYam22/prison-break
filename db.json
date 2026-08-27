@@ -63,8 +63,7 @@
       "age": "31",
       "role": "Inmate / Michael's Cellmate",
       "description": "Fernando Sucre is Michael Scofield's loyal cellmate at Fox River State Penitentiary and one of his closest allies throughout the entire escape. Convicted of aggravated robbery after attempting to get money for his pregnant girlfriend Maricruz, Sucre is driven almost entirely by his deep love for her and his desperate desire to be a father. Though initially hesitant to join the risky breakout scheme, the threat of losing Maricruz to his rival cousin Hector pushes him to commit fully to the plan. Soft-hearted, fiercely loyal, and reliable under extreme pressure, Sucre becomes an indispensable member of the Fox River Eight, repeatedly risking his own freedom and life to protect his friends and reunite with his family.",
-      "id": "3",
-      "imagePosition": "15% 0%"
+      "id": "3"
     },
     {
       "name": "Theodore 'T-Bag' Bagwell",
@@ -289,24 +288,134 @@
       ]
     }
   ],
-
-    
-      "actors": [
-      { "name": "Michael Scofield", "realName": "Wentworth Miller", "age": 54, "knownFor": "The Flash, Prison Break, Underworld: Awakening", "role": "Captain Cold / Leonard Snart", "image":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Wentworth_Miller_by_Gage_Skidmore.jpg/250px-Wentworth_Miller_by_Gage_Skidmore.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail" },
-  { "name": "Lincoln Burrows", "realName": "Dominic Purcell", "age": 56, "knownFor": "Legends of Tomorrow, Prison Break, Blade: Trinity", "role": "Mick Rory / Heat Wave", "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZdNB5PV42ThIm9TKN6ROqrIbdfmHiNiZ-xMiV4APvDA&s=10" },
-  { "name": "Fernando Sucre", "realName": "Amaury Nolasco", "age": 56, "knownFor": "Hightown, Prison Break, Transformers", "role": "Frankie Cuevas", "image":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Amaury_Nolasco_10-13-2008.jpg/250px-Amaury_Nolasco_10-13-2008.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail" },
-  { "name": "Theodore 'T-Bag' Bagwell", "realName": "Robert Knepper", "age": 66, "knownFor": "Heroes, Prison Break, Carnivale", "role": "Samuel Sullivan", "image":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Robert_Knepper_%2855221911727%29_%28cropped%29.jpg/250px-Robert_Knepper_%2855221911727%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail" },
-  { "name": "Brad Bellick", "realName": "Wade Williams", "age": 64, "knownFor": "The Bernie Mac Show, Prison Break, RoboCop 3", "role": "Jerry DiCanio", "image":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Wade_Williams_2008.jpg/250px-Wade_Williams_2008.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail" },
-  { "name": "Alexander Mahone", "realName": "William Fichtner", "age": 70, "knownFor": "Armageddon, Prison Break, The Dark Knight", "role": "Colonel Willie Sharp", "image":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/William_Fichtner_%2828000180188%29_%28cropped%29.jpg/250px-William_Fichtner_%2828000180188%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail" },
-  { "name": "Sara Tancredi", "realName": "Sarah Wayne Callies", "age": 49, "knownFor": "The Walking Dead, Prison Break, Colony", "role": "Lori Grimes", "image":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Sarah_Wayne_Callies_by_Gage_Skidmore_2.jpg/250px-Sarah_Wayne_Callies_by_Gage_Skidmore_2.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail" },
-  { "name": "Paul Kellerman", "realName": "Paul Adelstein", "age": 60, "knownFor": "Private Practice, Prison Break, Girlfriends' Guide to Divorce", "role": "Cooper Freedman", "image":"https://m.media-amazon.com/images/M/MV5BMTQyMjYwOTA2NF5BMl5BanBnXkFtZTcwNjM2NDAzMQ@@._V1_.jpg" },
-  { "name": "Benjamin Miles 'C-Note' Franklin", "realName": "Rockmond Dunbar", "age": 52, "knownFor": "9-1-1, Prison Break, Sons of Anarchy", "role": "Michael Grant", "image":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Rockmond_Dunbar_crop.jpg/250px-Rockmond_Dunbar_crop.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail" },
-  { "name": "John Abruzzi", "realName": "Peter Stormare", "age": 73, "knownFor": "American Gods, Prison Break, Fargo", "role": "Czernobog", "image":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Peter_Stormare_2015-09-23_001_%28cropped%29.jpg/250px-Peter_Stormare_2015-09-23_001_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail" },
-  { "name": "Gretchen Morgan", "realName": "Jodi Lyn O'Keefe", "age": 47, "knownFor": "Charmed, Prison Break, Halloween H20", "role": "Spider Demon", "image":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Jodi_Lyn_O%27Keefe.jpg/250px-Jodi_Lyn_O%27Keefe.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail" },
-  { "name": "Veronica Donovan", "realName": "Robin Tunney", "age": 54, "knownFor": "The Mentalist, Prison Break, End of Days", "role": "Teresa Lisbon", "image":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/RobinTunneyHWOFFeb2013.jpg/250px-RobinTunneyHWOFFeb2013.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail" },
-  { "name": "LJ Burrows", "realName": "Marshall Allman", "age": 44, "knownFor": "True Blood, Prison Break, Prom Night", "role": "Tommy Mickens", "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrmCupIIkx0mOlY1FXQC8LwvIV8EIBoORROmEvOyRvdA&s=10" },
-  { "name": "Charles 'Haywire' Patoshik", "realName": "Silas Weir Mitchell", "age": 57, "knownFor": "Grimm, Prison Break, My Name Is Earl", "role": "Monroe", "image":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Silas_Weir_Mitchell_at_San_Diego_Comic_Con_2026.jpg/250px-Silas_Weir_Mitchell_at_San_Diego_Comic_Con_2026.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail" }
-
-
+  "actors": [
+    {
+      "name": "Michael Scofield",
+      "realName": "Wentworth Miller",
+      "age": 54,
+      "knownFor": "The Flash, Prison Break, Underworld: Awakening",
+      "role": "Captain Cold / Leonard Snart",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Wentworth_Miller_by_Gage_Skidmore.jpg/250px-Wentworth_Miller_by_Gage_Skidmore.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    },
+    {
+      "name": "Lincoln Burrows",
+      "realName": "Dominic Purcell",
+      "age": 56,
+      "knownFor": "Legends of Tomorrow, Prison Break, Blade: Trinity",
+      "role": "Mick Rory / Heat Wave",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZdNB5PV42ThIm9TKN6ROqrIbdfmHiNiZ-xMiV4APvDA&s=10"
+    },
+    {
+      "name": "Fernando Sucre",
+      "realName": "Amaury Nolasco",
+      "age": 56,
+      "knownFor": "Hightown, Prison Break, Transformers",
+      "role": "Frankie Cuevas",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Amaury_Nolasco_10-13-2008.jpg/250px-Amaury_Nolasco_10-13-2008.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    },
+    {
+      "name": "Theodore 'T-Bag' Bagwell",
+      "realName": "Robert Knepper",
+      "age": 66,
+      "knownFor": "Heroes, Prison Break, Carnivale",
+      "role": "Samuel Sullivan",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Robert_Knepper_%2855221911727%29_%28cropped%29.jpg/250px-Robert_Knepper_%2855221911727%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    },
+    {
+      "name": "Brad Bellick",
+      "realName": "Wade Williams",
+      "age": 64,
+      "knownFor": "The Bernie Mac Show, Prison Break, RoboCop 3",
+      "role": "Jerry DiCanio",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Wade_Williams_2008.jpg/250px-Wade_Williams_2008.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    },
+    {
+      "name": "Alexander Mahone",
+      "realName": "William Fichtner",
+      "age": 70,
+      "knownFor": "Armageddon, Prison Break, The Dark Knight",
+      "role": "Colonel Willie Sharp",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/William_Fichtner_%2828000180188%29_%28cropped%29.jpg/250px-William_Fichtner_%2828000180188%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    },
+    {
+      "name": "Sara Tancredi",
+      "realName": "Sarah Wayne Callies",
+      "age": 49,
+      "knownFor": "The Walking Dead, Prison Break, Colony",
+      "role": "Lori Grimes",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Sarah_Wayne_Callies_by_Gage_Skidmore_2.jpg/250px-Sarah_Wayne_Callies_by_Gage_Skidmore_2.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    },
+    {
+      "name": "Paul Kellerman",
+      "realName": "Paul Adelstein",
+      "age": 60,
+      "knownFor": "Private Practice, Prison Break, Girlfriends' Guide to Divorce",
+      "role": "Cooper Freedman",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTQyMjYwOTA2NF5BMl5BanBnXkFtZTcwNjM2NDAzMQ@@._V1_.jpg"
+    },
+    {
+      "name": "Benjamin Miles 'C-Note' Franklin",
+      "realName": "Rockmond Dunbar",
+      "age": 52,
+      "knownFor": "9-1-1, Prison Break, Sons of Anarchy",
+      "role": "Michael Grant",
+      "image": "https://alchetron.com/cdn/benjamin-miles-c-note-franklin-44214773-68cd-427b-9094-59a09dc27bb-resize-750.jpeg"
+    },
+    {
+      "name": "John Abruzzi",
+      "realName": "Peter Stormare",
+      "age": 73,
+      "knownFor": "American Gods, Prison Break, Fargo",
+      "role": "Czernobog",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Peter_Stormare_2015-09-23_001_%28cropped%29.jpg/250px-Peter_Stormare_2015-09-23_001_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    },
+    {
+      "name": "Gretchen Morgan",
+      "realName": "Jodi Lyn O'Keefe",
+      "age": 47,
+      "knownFor": "Charmed, Prison Break, Halloween H20",
+      "role": "Spider Demon",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Jodi_Lyn_O%27Keefe.jpg/250px-Jodi_Lyn_O%27Keefe.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    },
+    {
+      "name": "Veronica Donovan",
+      "realName": "Robin Tunney",
+      "age": 54,
+      "knownFor": "The Mentalist, Prison Break, End of Days",
+      "role": "Teresa Lisbon",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/RobinTunneyHWOFFeb2013.jpg/250px-RobinTunneyHWOFFeb2013.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    },
+    {
+      "name": "LJ Burrows",
+      "realName": "Marshall Allman",
+      "age": 44,
+      "knownFor": "True Blood, Prison Break, Prom Night",
+      "role": "Tommy Mickens",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrmCupIIkx0mOlY1FXQC8LwvIV8EIBoORROmEvOyRvdA&s=10"
+    },
+    {
+      "name": "Charles 'Haywire' Patoshik",
+      "realName": "Silas Weir Mitchell",
+      "age": 57,
+      "knownFor": "Grimm, Prison Break, My Name Is Earl",
+      "role": "Monroe",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Silas_Weir_Mitchell_at_San_Diego_Comic_Con_2026.jpg/250px-Silas_Weir_Mitchell_at_San_Diego_Comic_Con_2026.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    },
+    {
+      "name": "James Whistler",
+      "realName": "Chris Vance",
+      "age": 54,
+      "knownFor": "The Transporter (TV series), Prison Break, Mistresses",
+      "role": "Frank Martin",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgh0U0D5DXbiXKBH2wnjoHkLXs_YLxpudarpuzMHl_Sw&s=10"
+    },
+    {
+      "name": "General Jonathan Krantz",
+      "realName": "Leon Russom",
+      "age": 84,
+      "knownFor": "The X-Files, Prison Break, Twister",
+      "role": "Multiple guest roles",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPB4SHUOn2B_0Qg4_70rf50UyC53wcrfcjhULNEuOOjQ&s=10"
+    }
   ]
 }
